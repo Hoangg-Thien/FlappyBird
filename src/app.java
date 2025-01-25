@@ -1,6 +1,6 @@
 import  javax.swing.*;
 
-public class flappybirds {
+public class app {
     public static void main(String[] args) throws Exception {
         int boardWidth = 1080;
         int boardHeight = 720;
